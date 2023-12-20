@@ -1,0 +1,264 @@
+@media screen and (max-width: 1431px){
+    .card-container-dalam-2{
+        margin-left: 0;
+    }
+    .card-container-dalam-3 {
+        margin-right: 0;
+    }
+
+    .list-card {
+        height: 1600px;
+    }
+    
+}
+
+@media screen and (max-width: 1296px){
+    .card-container-dalam-2{
+        margin-left: 0;
+    }
+    .card-container-dalam-3 {
+        margin-right: 0;
+    }
+
+    .stlh-img {
+        width: 300px;
+        height: 300px;
+    }
+
+    .list-card {
+        height: 2000px;
+    }
+
+    .container-footer {
+        padding: 20px;
+    }
+}
+
+@media screen and (max-width: 1200px){
+    .tengah {
+        height: 600px;
+    }
+    /* .img123 {
+        display: block;
+    } */
+    .container-tengah-img-txt {
+        display: block;
+    }
+
+
+            /*  */
+    /* Bagian card-list */
+            /*  */
+    .list-card {
+        height: 2000px;
+    }
+}
+
+@media screen and (max-width: 1000px) {
+   /* aside{
+    display: block;
+    justify-content: center;
+   } */
+   .img1{
+    width: 300px;
+   }
+   .colomn{
+    margin: 0 auto;
+    }
+}
+
+@media screen and (max-width: 972px){
+    .img1{
+    width: 300px;
+    margin-top: 140px;
+    margin-right: -20px;
+   }
+
+
+   /*  */
+   /* Bagian list-card */
+   /*  */
+
+   .list-card {
+    height: 2300px;
+   }
+
+
+
+
+        /*  */
+   /* Bagian stlh-card */
+        /*  */
+   .stlh-card {
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-around;
+    padding: 100px;
+
+    height: 1200px;
+   }
+   .stlh-img {
+    width: 400px;
+    height: 400px;
+   }
+   .txt-bwh {
+    padding: 0;
+    text-align: center;
+    align-items: center;
+   }
+   .txt-title-bwh {
+    text-align: center;
+    padding: 20px;
+   }
+   .txt-paragraf-bwh {
+    margin: auto;
+    text-align: center;
+
+    padding: 20px;
+    font-size: 18px;
+   }
+   .bwh {
+    margin: 30px auto;
+   }
+
+
+   .footer {
+    height: 400px;
+   }
+
+   .container-3 {
+    padding-top: 30px;
+    gap: 5rem;
+   }
+
+   .container-footer {
+    flex-direction: column;
+   }
+
+   .footer-kiri {
+    width: 100%;
+   }
+}
+
+@media screen and (max-width: 768px){
+    
+    .top-wrapper{
+     align-items: center;
+     text-align: center;
+    }
+ 
+    .text-kiri{
+     margin-left: 0px;
+    }
+ 
+    button{
+     margin-left: 0;
+    }
+ 
+    .img2{
+     margin-left: 0;
+    }
+ 
+    .img1{
+     width: 0;
+     height: 0;
+    }
+ 
+ 
+    /* Width GAK jalan ????? */
+ 
+     nav li a{
+         font-size: 15px;
+         padding: 10px 13px;
+     }
+ 
+ 
+ 
+     /* * */
+     /* Bagian list Card */
+     /* * */
+ 
+     .list-card {
+         height: 2500px;
+     }
+     
+     .card-container-dalam-2 {
+         margin: auto;
+     }
+     .card-container-dalam-3 {
+         margin: auto;
+     }
+ 
+ }
+
+ @media screen and (max-width: 977px){
+    /* header {
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+
+        
+    }
+    nav li {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+
+        padding: 0;
+    } */
+
+    nav li {
+        padding: 0;
+    }
+ }
+
+ @media screen and (max-width: 633px){
+    .tengah {
+        height: 900px;
+    }
+    .img123 {
+        flex-direction: column;
+    }
+
+    .list-card {
+        height: 4500px;
+    }  
+ }
+
+ @media screen and (max-width: 600px){
+    header {
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+
+        
+    }
+    nav li {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+
+        padding: 0;
+    }
+ }
+
+ @media screen and (max-width: 584px){
+    .stlh-img{
+        width: 290px;
+        height: 290px;
+    }
+    .text-kiri{
+        font-size: 40px;
+        width: auto;
+    }
+    .stlh-card {
+        height: 1700px;
+    }
+ }
+
+
+
+
+
+
+
